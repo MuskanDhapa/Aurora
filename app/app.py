@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 
 
-@app.route('/chatbot', methods=["GET", "POST"])
+@app.route('/', methods=["GET", "POST"])
 def chatbotResponse():
 
     if request.method == 'POST':
