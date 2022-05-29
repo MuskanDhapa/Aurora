@@ -56,7 +56,7 @@
               type: "POST",
               url: "/chatbot",
               data: {
-                  question: $("#question").val()
+                  question: $("question").val()
               },
               success: function(result) {
                 $("response").append("<br>Me: "+$("question").val()+ "<br> Aurora: "+result.response);
