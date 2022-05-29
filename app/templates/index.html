@@ -48,7 +48,7 @@
 
       jQuery(document).ready(function() {
 
-        $("submit-button").click(function(e) {
+        $("#submit-button").click(function(e) {
           e.preventDefault();
 
 
@@ -56,11 +56,11 @@
               type: "POST",
               url: "/chatbot",
               data: {
-                  question: $("question").val()
+                  question: $("#question").val()
               },
               success: function(result) {
-                $("response").append("<br>Me: "+$("question").val()+ "<br> Aurora: "+result.response);
-                $("question").val("")
+                $("#response").append("<br>Me: "+$("#question").val()+ "<br> Aurora: "+result.response);
+                $("#question").val("")
               },
               error: function(result) {
                   alert('error');
