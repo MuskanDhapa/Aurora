@@ -7,6 +7,9 @@ app = Flask(__name__)
 
 #app.config['SECRET_KEY'] = 'enter-a-very-secretive-key-3479373'
 
+@app.route('/')
+def index():
+    return "<h1> Deployed to Heroku</h1>"
 
 
 @app.route('/chatbot', methods=["GET", "POST"])
