@@ -1,3 +1,4 @@
+from ast import arguments
 from flask import Flask, render_template, jsonify, request
 import processor
 
@@ -6,21 +7,22 @@ app = Flask(__name__)
 
 #app.config['SECRET_KEY'] = 'enter-a-very-secretive-key-3479373'
 
-@app.route('/', methods=["GET", "POST"])
-def index():
-    return render_template('index.html', **locals())
-
 
 
 @app.route('/chatbot', methods=["GET", "POST"])
 def chatbotResponse():
 
     if request.method == 'POST':
-        the_question = request.form["question"]
+        arguments = request.args
+        the_question = arguments.get("question")
 
         response = processor.chatbot_response(the_question)
 
-    return jsonify({"response": response })
+        return jsonify({"response": response })
+    
+    else:
+        response = "Hi! I'm Aurora."
+        return jsonify({"response": response })
 
 
 
