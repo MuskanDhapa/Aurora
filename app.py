@@ -14,7 +14,7 @@ def index():
 @app.route('/chatbot', methods=["GET", "POST"])
 def chatbotResponse():
 
-    if request.method == 'GET':
+    if request.method == 'POST':
         arguments = request.args
         the_question = arguments.get("question")
 
