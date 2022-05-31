@@ -1,6 +1,6 @@
 import nltk
 nltk.download('omw-1.4')
-nltk.download('punkt')
+nltk.download(punkt)
 nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -16,7 +16,7 @@ words=[]
 classes = []
 documents = []
 ignore_words = ['?', '!']
-data_file = open("app\job_intents.json", encoding='utf-8').read()
+data_file = open("job_intents.json", encoding='utf-8').read()
 intents = json.loads(data_file)
 
 
