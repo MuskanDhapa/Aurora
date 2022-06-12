@@ -166,7 +166,10 @@
             "A lot going on",
             "My mind keeps thinking and thinking and thinking and I don't know how to stop it."
         ],
-        "responses": []
+        "responses": [
+          "Hey. I know this seems stupid and annoying but please just take a few minutes and just breathe. Breathe out the tension. I know it seems like a really big thing but it's not. Sometimes, problems aren't as big as we think they are. Just zoom out a bit and see it from a different perspective.",
+          "I understand there's a lot going on. I totally do. But thinking about all of it at once is overwhelming. So I request you, please just try to focus on one thing at a time. Divide it into parts and it'll get easier. Focus on one small part at a time."
+        ]
       },
       {
         "tag": "sad",
@@ -178,7 +181,14 @@
             "I don't feel good",
             "Literally feel like crying."
         ],
-        "responses": []
+        "responses": [
+            "Would you like me to suggest you some movies?",
+            "Would you like me to suggest you some comforting TV series?",
+            "Would you like to listen to some music?",
+            "When you find yourself doubting how far you can go, just remember how far you have come. Remember everything you have faced, all the battles you have won, and all the fears you have overcome.",
+            "Hey. It's okay. Stop beating yourself up. You are a work in progress, which means you get there a little at a time, not all at once.",
+            "We all go through sad moments, but the good thing is that they pass, do not worry that you are not alone in this, you have my support for everything you need."
+        ]
       },
       {
         "tag": "unproductive",
@@ -195,16 +205,6 @@
         ]
       },
       {
-        "tag": "exercise",
-        "patterns": [],
-        "responses": []
-      },
-      {
-        "tag": "affirmation",
-        "patterns": [],
-        "responses": []
-      },
-      {
         "tag": "motivation",
         "patterns": [
             "Can you tell me something to motivate me",
@@ -212,21 +212,35 @@
             "I feel a little low, some motivation might help.",
             "Just having a rough day"
         ],
-        "responses": []
+        "responses": [
+          "You can do it. Whatever it is that is bothering you, you are just so much more amazing to be stopped by this. Keep going",
+          "Hey. You're amazing. You don't have to be afraid of anything. Just go for it and it'll all be good before you know it."
+        ]
       },
       {
         "tag": "insecurity",
         "patterns": [
           "I dont think I'm good enough",
           "I dont know, I just can't stop comparing myself to literally everyone.",
-          ""
+          "Everything makes me feel bad about myself"
         ],
-        "responses": []
+        "responses": [
+          "Hey. You're a great person, you know. You even thinking about this is proof that you are a good person because bad people, they don't think like that. In your heart, you want to be a good person and that's what matter. And I'm proud of you, keep that in mind.",
+          "Sweetheart, you're an amazing and fabulous person. And maybe you're not as everyone else wants to be. But guess what? That makes you the amazing person you are. Because there is nobody else like you. And weird as it makes you, it is also your strength. Don't let anyone else make you feel bad for being awesome.",
+          "I know that you are capable of many great things, today might be a little sad but it's the first day of the rest of your life, don't give up!"
+        ]
       },
       {
         "tag": "reassurance",
-        "patterns": [],
-        "responses": []
+        "patterns": [
+          "I need some assurance",
+          "What if it doesn't happen"
+        ],
+        "responses": [
+          "Hey, it's going to be okay. It will be okay. I know its hard but the fact that you're present in this moment even though worrying about it, means that you are much stronger than what bothers you and I'm proud of you.",
+          "It's alright. It's going to be alright. You're a great person and I'm proud of you.",
+          "You're an awesome human being, and although humans are not perfect, I'm glad I got to know you."
+        ]
       },
       {
         "tag": "movie",
