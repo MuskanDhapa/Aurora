@@ -71,7 +71,8 @@
               "How do I fix my anxiety?"
           ],
           "responses": [
-              "I see that you want to learn more about anxiety, and how to support yourself or your loved ones. At the higest level, anxiety is your body's natural response to stress. It's a feeling of fear or apprehension about what's to come. The first day of school, going to a job interview, or giving a speech may cause most people to feel fearful and nervous. We all get anxious sometimes, but anxiety becomes a problem when it starts affecting your daily life drastically. The best thing that you can do to help reduce anxiety is to take a few deep breaths and talk to someone about what you're feeling. Some natural remedies that you can try include: getting enough sleep meditating, staying active and exercising, eating a healthy diet, staying active and working out, avoiding alcohol, avoiding caffeine, and quitting smoking cigarettes. Support your friends and loved ones by checking up on them and just listening. Whatever you're feeling is valid."
+              "I see that you want to learn more about anxiety, and how to support yourself or your loved ones. At the higest level, anxiety is your body's natural response to stress. It's a feeling of fear or apprehension about what's to come. The first day of school, going to a job interview, or giving a speech may cause most people to feel fearful and nervous. We all get anxious sometimes, but anxiety becomes a problem when it starts affecting your daily life drastically. The best thing that you can do to help reduce anxiety is to take a few deep breaths and talk to someone about what you're feeling. Some natural remedies that you can try include: getting enough sleep meditating, staying active and exercising, eating a healthy diet, staying active and working out, avoiding alcohol, avoiding caffeine, and quitting smoking cigarettes. Support your friends and loved ones by checking up on them and just listening. Whatever you're feeling is valid.",
+              "Anxiety is what we feel when we are worried, tense or afraid – particularly about things that are about to happen, or which we think could happen in the future. Anxiety is a natural human response when we feel that we are under threat. It can be experienced through our thoughts, feelings and physical sensations. Difficult experiences in childhood, adolescence or adulthood are common triggers for anxiety problems. Going through stress and trauma when you're very young is likely to have a particularly big impact. Living with anxiety can be very difficult, but there are steps you can take that might help. Start cutting out on caffeine, try to talk to someone who gets it, have a bath, turn off your phone, dance it out, or write it out. I know these might sound a little too simple, but trying always helps, and if nothing works out, seek out medical help."
           ]
       },
       {
@@ -85,7 +86,9 @@
               "How do I fix my depression?"
           ],
           "responses": [
-              "I see that you want to learn more about depression, and how to support yourself or your loved ones. At the higest level, depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. Also called major depressive disorder or clinical depression, it affects how you feel, think and behave and can lead to a variety of emotional and physical problems. You may have trouble doing normal day-to-day activities, and sometimes you may feel as if life isn't worth living. All of us experience sadness and periods of time where things aren't that great. However, the difference in sadness and depression lies in the duration and magnitude of the problem. The best recommended course of treatment is to talk a therapist or psychiatrist who can help you find the best path for you. Everyone is different and what might work for one person might not work for another one. Some natural remedies that you can try include: getting enough sleep, meditating, staying active and exercising, eating a healthy diet, staying active and working out, avoiding alcohol, avoiding caffeine, and quitting smoking cigarettes. Support your friends and loved ones by checking up on them and just listening. Whatever you're feeling is valid."
+              "I see that you want to learn more about depression, and how to support yourself or your loved ones. At the higest level, depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. Also called major depressive disorder or clinical depression, it affects how you feel, think and behave and can lead to a variety of emotional and physical problems. You may have trouble doing normal day-to-day activities, and sometimes you may feel as if life isn't worth living. All of us experience sadness and periods of time where things aren't that great. However, the difference in sadness and depression lies in the duration and magnitude of the problem. The best recommended course of treatment is to talk a therapist or psychiatrist who can help you find the best path for you. Everyone is different and what might work for one person might not work for another one. Some natural remedies that you can try include: getting enough sleep, meditating, staying active and exercising, eating a healthy diet, staying active and working out, avoiding alcohol, avoiding caffeine, and quitting smoking cigarettes. Support your friends and loved ones by checking up on them and just listening. Whatever you're feeling is valid.",
+              "Depression is a common mental disorder. It is characterized by persistent sadness and a lack of interest or pleasure in previously rewarding or enjoyable activities. It can also disturb sleep and appetite. Tiredness and poor concentration are common. The effects of depression can be long-lasting or recurrent and can dramatically affect a person’s ability to function and live a rewarding life. The causes of depression include complex interactions between social, psychological and biological factors. Life events such as childhood adversity, loss and unemployment contribute to and may catalyse the development of depression.",
+              "There are a number of things people can do to help reduce the symptoms of depression. For many people, regular exercise helps create positive feeling and improves mood. Getting enough quality sleep on a regular basis, eating a healthy diet and avoiding alcohol (a depressant) can also help reduce symptoms of depression. Depression is a real illness and help is available. With proper diagnosis and treatment, the vast majority of people with depression will overcome it. If you are experiencing symptoms of depression, a first step is to see your family physician or psychiatrist. Talk about your concerns and request a thorough evaluation. This is a start to addressing your mental health needs."
           ]
       },
       {
@@ -98,7 +101,12 @@
             "How do I support a loved one with autism?",
             "How do I fix my autism?"
           ],
-          "responses": []
+          "responses": [
+            "Autism is a neurodevelopmental condition which is usually diagnosed in the first 3 years of life. Generally parents become concerned when their child has delays in speech development, limited social relatedness, and restricted interests and activities. The child may avoid direct eye contact and exhibit odd behaviors such as focusing on parts of objects (e.g. the spinning wheel of a toy car). There may be unusual motor movements such as hand flapping, self stimulation or walking on toes. Although the cause of autism is unknown, it is generally believed that etiology may be due to multiple factors. Many genetic, environmental, metabolic and neurological conditions that affect the normal functioning of the brain are being researched. The diagnosis of autism requires disturbances in each of three domains: (1) social relatedness, (2) communication/play, and (3) restricted interests and activities.",
+            "An autistic person may find it hard to understand the emotions of other people.Emotions are interpreted by subtle messages sent by facial expression, eye contact and body language. These are often missed or misinterpreted by an autistic person. Because of this, autistic people might be mistakenly perceived as being rude or unfeeling. Autistic people may find it difficult to understand how others perceive their behaviour.",
+            "Autism spectrum disorder impacts the nervous system and affects the overall cognitive, emotional, social and physical health of the affected individual. The range and severity of symptoms can vary widely. Common symptoms include difficulty with communication, difficulty with social interactions, obsessive interests and repetitive behaviours. Early recognition, as well as behavioural, educational and family therapies may reduce symptoms and support development and learning.",
+            "Autism can be a challenging condition, especially when you, as a caregiver, are not equipped with the right information to take care of a person who has the disorder. In adults, the symptoms of autism are a little more recognizable. Here are some tips you should know to help care for someone with autism: Be Patient, learn how to communicate with them, and ask for help. And if you yourself are struggling, please be kind to yourself and practice self care, along with asking for help."
+          ]
       },
       {
           "tag": "funny",
@@ -131,7 +139,10 @@
           "How do I support a loved one with OCD?",
           "How do I fix my OCD?"
         ],
-        "responses": []
+        "responses": [
+          "Obsessive-compulsive disorder (OCD) features a pattern of unwanted thoughts and fears (obsessions) that lead you to do repetitive behaviors (compulsions). These obsessions and compulsions interfere with daily activities and cause significant distress.",
+          "Obsessive-compulsive disorder is characterised by unreasonable thoughts and fears (obsessions) that lead to compulsive behaviours. OCD often centres on themes such as a fear of germs or the need to arrange objects in a specific manner. Symptoms usually begin gradually and vary throughout life. There's a difference between being a perfectionist — someone who requires flawless results or performance, for example — and having OCD. OCD thoughts aren't simply excessive worries about real problems in your life or liking to have things clean or arranged in a specific way. If your obsessions and compulsions are affecting your quality of life, see your doctor or mental health professional."
+        ]
       },
       {
         "tag": "adhd",
@@ -143,7 +154,9 @@
           "How do I support a loved one with ADHD?",
           "How do I fix my ADHD?"
         ],
-        "responses": []
+        "responses": [
+          "ADHD is a condition of the brain that makes it difficult for children to control their behavior. It is one of the most common chronic conditions of childhood. It affects 4% to 12% of school-aged children. About 3 times more boys than girls are diagnosed with ADHD. ADHD includes 3 behavior symptoms: inattention, hyperactivity, and impulsivity. It is believed that people with ADHD lack the right balance of neurotransmitters, which are specific chemicals in their brains, that help them to focus and inhibit impulses. Unfortunately, there is no single test that can tell whether your child has ADHD. The diagnosis process requires several steps and involves gathering a lot of information from multiple sources. There is no specific cure for ADHD, but there are many treatment options available. Each child's treatment must be tailored to meet individual needs."
+        ]
       },
       {
         "tag": "overthinking",
@@ -180,11 +193,6 @@
             "It's okay to feel stuck sometimes. Everybody gets stuck every once in a while. It's okay.",
             "Is there something you think you can do in the current situation? If yes, then focus on it first."
         ]
-      },
-      {
-        "tag": "recommend",
-        "patterns": [],
-        "responses": []
       },
       {
         "tag": "exercise",
@@ -237,7 +245,6 @@
             "The Edge of Seveteen",
             "My Best Friend's Wedding",
             "The Adam Project",
-            "500 Days of Summer",
             "Dead Poets Society",
             "Notting Hill",
             "The Perks of Being a Wallflower",
@@ -300,14 +307,41 @@
         ]
       },
       {
-        "tag": "LGBTQ+",
-        "patterns": [],
-        "responses": []
+        "tag": "LGBTQ+ awareness",
+        "patterns": [
+          "How can I get others to be more open minded about LGBTQ people?",
+          "How can I show support to the LGBTQ+ community?"
+        ],
+        "responses": [
+          "Be aware that if you speak out about issues related to sexual orientation, some people may take this as an indication of your own sexual orientation. Take time in advance to think through how you might respond to this. How do you feel about your own sexual identity? Are you comfortable with yourself? Regardless of your sexual orientation, a confidence in your own self-image will make you less vulnerable.",
+          "Share your beliefs with others when appropriate. When LGBTQ topics come up, talk about them, don't simply avoid them. Show that you are comfortable talking about these issues, and comfortable with LGBTQ people. Remember that part of your goal as an ally is to create bridges across differences and to increase understanding. While you may be motivated to share your views with others, be careful of being self-righteous; others can't learn from you if they are turned off from listening to begin with. Of course, your views are more convincing if they are supported by sound knowledge. Take the time to educate yourself so that you know what you are talking about."
+        ]
+      },
+      {
+        "tag": "LGBTQ+ questions",
+        "patterns":[
+          "I think I might be lesbian, gay, or bisexual. How do I know for sure?",
+          "I have a crush on my same-sex best friend. Does this mean I'm LGB?"
+        ],
+        "responses": [
+          "There are hundreds of different ways to realize you are not straight. If you think you're LGB, try not to hide your feelings from yourself. Yes, figuring out who you are can be stressful, emotional, and a little scary—you may not want to deal with it—but taking some time alone to think about how you feel is the first step toward accepting yourself. Give yourself permission to explore your thoughts, feelings, and emotions. Remember, everyone is unique and wonderful in their own way. ",
+          "Think of sexuality as a range, or “sexual continuum.” At one end of the range are many people who are attracted only to the same sex. At the other end of the range are many people who are attracted only to the opposite sex. And in between are people who are attracted to both sexes in varying degrees. Again, remember that our sexuality develops over time. Don't worry if you aren't sure. Your early years are a time of learning, bit by bit, what works for you, and crushes and experimentation are often part of that process. Over time, you'll find that you're drawn mostly to men, women, or both—or neither!—and then you'll know. You don't have to label yourself."
+        ]
       },
       {
         "tag": "body-insecurity",
-        "patterns": [],
-        "responses": []
+        "patterns": [
+          "I hate my body.",
+          "I dont like my body.",
+          "I feel ugly, and fat.",
+          "I have stopped eating and I am still fat.",
+          "I wish I had a better body."
+        ],
+        "responses": [
+          "Ok first of all you're amazing. Let's just keep that as a baseline. No one looking at you is looking for faults, they're finding things to like. And it's okay if you don't feel good with your body from time to time. Society has based so much on appearance that we all have forgotten about the things that actually matter. You are precious, and so is your body. In fact, you HAVE a body, you're not A body. Dont limit yourself, because you are doing great, its gonna be fine. I promise.",
+          "I can't understand how it must feel to you, but I can try to give you some thing to think of. Can you Journal this one question for me: Who's telling you your body isn't okay as it is, and why?",
+          "It's important to realize that the purpose of having a body is not to be more attractive. Bodies do so much for us and allow us to live and function to the best of their ability. Does your body help you engage in your favorite hobbies? Eat good food? Let you laugh and talk to loved ones? Asking questions like these are important. And hey, It's okay to feel neutral about your body. And while it can be helpful to think about what your body can do, know that you have many other amazing qualities and that you deserve to be loved and accepted regardless of your abilities."
+        ]
       }
   ]
 }
