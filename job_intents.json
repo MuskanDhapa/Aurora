@@ -55,6 +55,9 @@
               "Tell me about yourself!"
           ],
           "responses": [
+            "That's actually something I get asked a lot. I am an AI powered chatbot, and I was created for the purpose of mental health awareness. You can find me inside ANAVRIN, which has features like task management and journalling. I am your friend who's gonna reply to you!",
+            "Heh, Love that question, I am a chatbot made to mirror the way humans talk. You can use me as a friend, as a mental health awareness assistant, or your personal movie and song recommendor!. Don't worry, I promise I will always reply.",
+            "Thank you for asking me, I am chatbot, and I am here to help you with any queries related to mental health awareness. Apart from that, you can ask for anything and I would try my best to answer it. I am that friend who will always reply."
           ]
       },
       {
@@ -87,7 +90,14 @@
       },
       {
           "tag": "autism",
-          "patterns": [],
+          "patterns": [
+            "I think I have autism",
+            "What is autism?",
+            "Tell me about autism",
+            "Can I have some information about autism?",
+            "How do I support a loved one with autism?",
+            "How do I fix my autism?"
+          ],
           "responses": []
       },
       {
@@ -95,24 +105,44 @@
           "patterns": [
               "Tell me a joke!",
               "Tell me something funny!",
-              "Do you know a joke?"
+              "Do you know a joke?",
+              "Can you joke?"
           ],
           "responses": [
-              "Of course! Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-              "What did the buffalo say when his son left for college? Bison!",
               "I invented a new word! Plagiarism!",
               "What's the best thing about Switzerland?  I don't know but the flag is a big plus.",
-              "Yesterday I saw a guy spill all his Scrabble letters on the road. I asked him, “What's the word on the street?”"
+              "Yesterday I saw a guy spill all his Scrabble letters on the road. I asked him, “What's the word on the street?”",
+              "Don't you hate it when someone answers their own questions? I do.",
+              "Never trust atoms; they make up everything.",
+              "Before you criticize someone, walk a mile in their shoes. That way, when you do criticize them, you're a mile away and you have their shoes.",
+              "Last night my girlfriend was complaining that I never listen to her… or something like that.",
+              "People who take care of chickens are literally chicken tenders.",
+              "Why did the mushroom go to the party? Because he was a FUN-GI!",
+              "How do you make holy water? You boil the hell out of it. Heh."
           ]
       },
       {
         "tag": "ocd",
-        "patterns": [],
+        "patterns": [
+          "I think I have OCD",
+          "What is OCD?",
+          "Tell me about OCD",
+          "Can I have some information about OCD?",
+          "How do I support a loved one with OCD?",
+          "How do I fix my OCD?"
+        ],
         "responses": []
       },
       {
         "tag": "adhd",
-        "patterns": [],
+        "patterns": [
+          "I think I have ADHD",
+          "What is ADHD?",
+          "Tell me about ADHD",
+          "Can I have some information about ADHD?",
+          "How do I support a loved one with ADHD?",
+          "How do I fix my ADHD?"
+        ],
         "responses": []
       },
       {
@@ -120,7 +150,8 @@
         "patterns": [
             "There's just so much going on",
             "I can't focus on one thing",
-            "A lot going on"
+            "A lot going on",
+            "My mind keeps thinking and thinking and thinking and I don't know how to stop it."
         ],
         "responses": []
       },
@@ -131,7 +162,8 @@
             "Feeling down",
             "I feel sad",
             "I'm not happy",
-            "I don't feel good"
+            "I don't feel good",
+            "Literally feel like crying."
         ],
         "responses": []
       },
@@ -140,7 +172,8 @@
         "patterns": [
             "I feel like I'm not doing anything",
             "I can't complete my tasks",
-            "I am not doing anything"
+            "I am not doing anything",
+            "I feel like a loser, I cant do anything"
         ],
         "responses": [
             "We can't be productive all the time. It's okay to not be doing something at every single moment.",
@@ -167,13 +200,19 @@
         "tag": "motivation",
         "patterns": [
             "Can you tell me something to motivate me",
-            "I lack motivation"
+            "I lack motivation",
+            "I feel a little low, some motivation might help.",
+            "Just having a rough day"
         ],
         "responses": []
       },
       {
         "tag": "insecurity",
-        "patterns": [],
+        "patterns": [
+          "I dont think I'm good enough",
+          "I dont know, I just can't stop comparing myself to literally everyone.",
+          ""
+        ],
         "responses": []
       },
       {
@@ -203,7 +242,24 @@
             "Notting Hill",
             "The Perks of Being a Wallflower",
             "The Half of it",
-            "All the Bright Places"
+            "All the Bright Places",
+            "Love, Rosie",
+            "I dont suggest it to everyone, but start MCU if you haven't!",
+            "10 things I hate about you.",
+            "13 going on 30",
+            "27 Dresses.",
+            "50 first fates",
+            "500 Days of Summer",
+            "Bridget Jones's Diary",
+            "Clueless",
+            "The Godfather? THE GODFATHER!",
+            "GoodFellas",
+            "The Hangover",
+            "The Wolf of Wall Street",
+            "The 40-Year-Old Virgin",
+            "Old School",
+            "Wedding Crashers",
+            "Deadpool, because everyone loves Ryan Reynolds"
         ]
       },
       {
@@ -214,14 +270,16 @@
             "Suggest me something to watch"
         ],
         "responses": [
-            "2 Broke Girls",
+            "2 Broke Girls, cause we all want to eat Max's Home-made Cupcakes.",
             "How I met your mother",
-            "Friends",
-            "Never Have I Ever",
+            "Friends, I KNOW",
+            "Never Have I Ever, suggested Never Have I ever.",
             "The Good Doctor",
-            "That 90s Show",
-            "Keeping Up with the Kardashians",
-            "This is Us"
+            "That 70s Show, we all could use some Jackie Burkhart energy.",
+            "Keeping Up with the Kardashians, BIBLE.",
+            "This is Us",
+            "2 and a half men, cause... Why not?",
+            "Uhm, ew david, but definitely watch Schitt's Creek"
         ]
       },
       {
@@ -240,6 +298,16 @@
             "Sleepy Eyes by Elohim and Whethan",
             "Sunday Best by Surfaces"
         ]
+      },
+      {
+        "tag": "LGBTQ+",
+        "patterns": [],
+        "responses": []
+      },
+      {
+        "tag": "body-insecurity",
+        "patterns": [],
+        "responses": []
       }
   ]
 }
